@@ -55,10 +55,3 @@ Si implementás pruebas:
 ```bash
 npm test
 ```
-
----
-
-Si tenés dudas o problemas, no dudes en consultar.
-# cierre-orden-orden-inspeccion
-# cierre-orden-orden-inspeccion
-# cierre-orden-orden-inspeccion
